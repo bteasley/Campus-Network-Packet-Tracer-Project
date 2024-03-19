@@ -6,8 +6,11 @@ This project focuses on the design and implementation of a secure university net
 
 ## Key Features
 Secure Infrastructure: Configured routers, switches, and firewalls to establish a secure network environment.
+
 Services Configuration: Implemented DNS, DHCP, web server, and email server for seamless functionality.
+
 DMZ Setup: Established a demilitarized zone (DMZ) to facilitate external website access while maintaining security.
+
 Documentation: Detailed documentation provided for setup procedures and configurations.
 
 ## Getting Started
