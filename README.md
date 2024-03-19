@@ -1,20 +1,20 @@
-Campus Network Packet Tracer Project
+# Campus Network Packet Tracer Project
 Welcome to our University Network Project repository!
 
-Overview
+## Overview
 This project focuses on the design and implementation of a secure university network infrastructure using Cisco Packet Tracer. Our objective is to obtain hands-on experience in network architecture while ensuring robust security measures.
 
-Key Features
+## Key Features
 Secure Infrastructure: Configured routers, switches, and firewalls to establish a secure network environment.
 Services Configuration: Implemented DNS, DHCP, web server, and email server for seamless functionality.
 DMZ Setup: Established a demilitarized zone (DMZ) to facilitate external website access while maintaining security.
 Documentation: Detailed documentation provided for setup procedures and configurations.
 
-Getting Started
+## Getting Started
 To explore our project:
 Clone this repository: git clone https://github.com/your-username/university-network-project.git
 
-Contributions
+## Contributions
 Contributions are welcome! Feel free to submit bug fixes, feature enhancements, or suggestions via pull requests. Please refer to our contribution guidelines for more information.
 
 Happy networking!
