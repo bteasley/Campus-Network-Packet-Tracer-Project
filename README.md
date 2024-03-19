@@ -15,7 +15,7 @@ Documentation: Detailed documentation provided for setup procedures and configur
 
 ## Getting Started
 To explore our project:
-Clone this repository: git clone https://github.com/your-username/university-network-project.git
+Clone this repository: git clone https://github.com/bteasley/Campus-Network-Packet-Tracer-Project.git
 
 ## Contributions
 Contributions are welcome! Feel free to submit bug fixes, feature enhancements, or suggestions via pull requests. Please refer to our contribution guidelines for more information.
